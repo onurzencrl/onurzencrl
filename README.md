@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**onurzencrl/onurzencrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to My GitHub Profile!
 
-Here are some ideas to get you started:
+## About Me
+I'm a passionate web developer with expertise in C# and Angular. I enjoy creating seamless web applications and continuously expanding my skill set.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- *Languages & Frameworks:* C#, Angular, JavaScript, HTML, CSS, Flutter
+- *Tools & Technologies:* Git, Visual Studio, Node.js, npm
+
+## Projects
+Here are some of my favorite projects:
+1. *Project One* - A brief description of what this project is about.
+2. *Project Two* - A brief description of what this project is about.
+3. *Project Three* - A brief description of what this project is about.
+
+## Contact Me
+Feel free to reach out through any of the following platforms:
+- *LinkedIn:* [Your LinkedIn Profile](https://www.linkedin.com)
+- *Instagram:* [Your Instagram Profile](https://www.instagram.com)
