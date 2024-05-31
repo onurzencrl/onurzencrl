@@ -25,7 +25,7 @@
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟹𝟼](https://github.com/Raymo111/i3lock-color/issues/136)
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟻𝟿](https://github.com/Raymo111/i3lock-color/issues/159)
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
+[## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3000](https://github.com/LibreSign/libresign/issues/3000#issuecomment-2140772750) in [LibreSign/libresign](https://github.com/LibreSign/libresign)
 2. 🗣 Commented on [#3000](https://github.com/LibreSign/libresign/issues/3000#issuecomment-2140768622) in [LibreSign/libresign](https://github.com/LibreSign/libresign)
@@ -33,7 +33,7 @@
 4. 🗣 Commented on [#286](https://github.com/Raymo111/i3lock-color/pull/286#issuecomment-2097249285) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 5. 💪 Opened PR [#130](https://github.com/CharaChorder/nexus/pull/130) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
 <!--END_SECTION:activity-->
-
+](url)
 <!--
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
 <a href="https://twitter.com/Raym0111" target="_blank">
