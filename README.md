@@ -52,16 +52,98 @@
 <a href='https://tr.linkedin.com/in/onur-zencirli-63348a244'> <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Onur on LinkedIn" title="Follow Onur on LinkedIn"/></a>
 <a href='https://www.instagram.com/onurzencrl/?igshid=MzNlNGNkZWQ4Mg%3D%3D'>
 <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Onur on Instagram" title="Follow Onur on Instagram"/> </a>
-<!--
-## ⚡ 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚠𝚎𝚗𝚝 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴
-- 𝚃𝚢𝚙𝚎𝙸𝚝, 𝚅𝚞𝚎 𝙿𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝙹𝚜 𝚊𝚗𝚍 𝚅𝚞𝚎.𝚓𝚜 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚝𝚢𝚙𝚒𝚗𝚐 𝚒𝚗𝚝𝚛𝚘: [𝚑𝚝𝚝𝚙𝚜://𝚌𝚘𝚍𝚎𝚜𝚊𝚗𝚍𝚋𝚘𝚡.𝚒𝚘/𝚜/𝚛𝚎𝚊𝚍𝚖𝚎-𝚒𝚗𝚝𝚛𝚘𝚐𝚒𝚏-𝟿𝚏𝚓𝚘𝟻](https://codesandbox.io/s/readme-introgif-9fjo5) <!-- Thanks to @matyo91's helpful comments in their profile README! -->
-- 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚜𝚒𝚝 𝚌𝚘𝚞𝚗𝚝 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝙽𝚊𝚝𝚑𝚊𝚗𝟷𝟹𝟾𝟾𝟾/𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝙱𝚊𝚍𝚐𝚎𝚁𝚎𝚕𝚘𝚊𝚍𝚎𝚍](https://github.com/Nathan13888/VisitorBadgeReloaded)
-- 𝙼𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎𝚍 𝚝𝚎𝚡𝚝 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚢𝚊𝚢𝚝𝚎𝚡𝚝.𝚌𝚘𝚖/𝚖𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎/](https://yaytext.com/monospace/)
-- 𝙶𝚒𝚝𝙷𝚞𝚋 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢 𝚊𝚌𝚝𝚒𝚘𝚗 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚓𝚊𝚖𝚎𝚜𝚐𝚎𝚘𝚛𝚐𝚎00𝟽/𝚐𝚒𝚝𝚑𝚞𝚋-𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢-𝚛𝚎𝚊𝚍𝚖𝚎](https://github.com/jamesgeorge007/github-activity-readme)
-- 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚕𝚘𝚠𝚕𝚒𝚐𝚑𝚝𝚎𝚛/𝚖𝚎𝚝𝚛𝚒𝚌𝚜](https://github.com/lowlighter/metrics)
-- -->
-<!--
-- 𝙻𝚊𝚝𝚎𝚜𝚝 𝚝𝚠𝚎𝚎𝚝 𝚊𝚌𝚝𝚒𝚘𝚗 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚣𝚑𝚒𝚒𝚒𝚢𝚊𝚗𝚐/𝚣𝚑𝚒𝚒𝚒𝚢𝚊𝚗𝚐](https://github.com/zhiiiyang/zhiiiyang)
-- 𝙻𝚊𝚝𝚎𝚜𝚝 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖 𝚙𝚘𝚜𝚝𝚜 𝚊𝚗𝚍 𝚠𝚎𝚊𝚝𝚑𝚎𝚛 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚝𝚑𝚖𝚜𝚐𝚋𝚛𝚝/𝚝𝚑𝚖𝚜𝚐𝚋𝚛𝚝](https://github.com/thmsgbrt/thmsgbrt)
-- 𝙰𝚕𝚕-𝚝𝚒𝚖𝚎 𝙶𝚒𝚝𝙷𝚞𝚋 𝚜𝚝𝚊𝚝𝚜 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚖𝚊𝚛𝚔𝚎𝚝𝚙𝚕𝚊𝚌𝚎/𝚊𝚌𝚝𝚒𝚘𝚗𝚜/𝚙𝚛𝚘𝚏𝚒𝚕𝚎-𝚛𝚎𝚊𝚍𝚖𝚎-𝚜𝚝𝚊𝚝𝚜](https://github.com/marketplace/actions/profile-readme-stats)
--->
+
+# snk
+
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
+[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
+[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
+![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+
+Generates a snake game from a github user contributions graph
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+Pull a github user's contribution graph.
+Make it a snake Game, generate a snake path where the cells get eaten in an orderly fashion.
+
+Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) image.
+
+Available as github action. It can automatically generate a new image each day. Which makes for great [github profile readme](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
+
+## Usage
+
+**github action**
+
+```yaml
+- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+```
+
+[example with cron job](https://github.com/Platane/Platane/blob/master/.github/workflows/main.yml#L26-L33)
+
+If you are only interested in generating a svg, consider using this faster action: `uses: Platane/snk/svg-only@v3`
+
+**dark mode**
+
+For **dark mode** support on github, use this [special syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#specifying-the-theme-an-image-is-shown-to) in your readme.
+
+```html
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+```
+
+**interactive demo**
+
+<a href="https://platane.github.io/snk">
+  <img height="300px" src="https://user-images.githubusercontent.com/1659820/121798244-7c86d700-cc25-11eb-8c1c-b8e65556ac0d.gif" ></img>
+</a>
+
+[platane.github.io/snk](https://platane.github.io/snk)
+
+**local**
+
+```
+npm install
+
+npm run dev:demo
+```
+
+## Implementation
+
+[solver algorithm](./packages/solver/README.md)
+
