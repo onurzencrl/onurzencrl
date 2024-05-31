@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Onur Zencirli)|https://onurzencirli.com)" title="👋 Hi there! I'm (Onur Zencirli)|https://raymond.li)"/>](https://onurzencirli.com/)
+[<img src="https://github.com/onurzencrl/onurzencrl/blob/main/introonur.gif" alt="👋 Hi there! I'm (Onur Zencirli)|https://onurzencirli.com)" title="👋 Hi there! I'm (Onur Zencirli)|https://raymond.li)"/>](https://onurzencirli.com/)
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
 
