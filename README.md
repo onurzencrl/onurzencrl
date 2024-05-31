@@ -35,7 +35,6 @@
 4. 🗣 Commented on [#286](https://github.com/Raymo111/i3lock-color/pull/286#issuecomment-2097249285) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 5. 💪 Opened PR [#130](https://github.com/CharaChorder/nexus/pull/130) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
 <!--END_SECTION:activity-->
-](url)
 -->
 <!--
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
