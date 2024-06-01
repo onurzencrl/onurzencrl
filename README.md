@@ -1,6 +1,5 @@
 [<img src="https://github.com/onurzencrl/onurzencrl/blob/main/onurprofile.gif" alt="👋 Hi there! I'm (Onur Zencirli)|https://onurzencirli.com)" title="👋 Hi there! I'm (Onur Zencirli)|https://onurzencirli.com)"/>](https://onurzencirli.com/)
-
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
+<br>
 :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 🖥 Software developer with a passion for bold ideas. <br>
