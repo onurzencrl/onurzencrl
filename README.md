@@ -6,7 +6,7 @@
 
 🖥 Software developer with a passion for bold ideas. <br>
 🎓 Freshly graduated from Selcuk University with a degree in Computer Science. <br>
-🌐 You can access all my open-source projects here on GitHub or on the AUR. <br>
+🌐 You can access all my open-source projects here on GitHub <br>
 
 I'm an Angular and .NET developer, graduated from Selcuk University, with around 3 years of experience.
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
