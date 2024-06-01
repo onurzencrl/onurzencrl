@@ -2,7 +2,7 @@
 <br>
 <br>
 <br>
-:book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 🖥 Software developer with a passion for bold ideas. <br>
 🎓 Freshly graduated from Selcuk University with a degree in Computer Science. <br>
